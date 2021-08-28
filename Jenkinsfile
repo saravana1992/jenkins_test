@@ -1,1 +1,1 @@
-echo "test" - success
+echo "test - success"
